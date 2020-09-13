@@ -1,7 +1,10 @@
-## Minimalistic rEFInd theme
+## Minimalistic rEFInd theme with expanded functionality
 
 [rEFInd](http://www.rodsbooks.com/refind/) is an easy to use boot manager for UEFI
 based systems. This is a clean and minimal theme for it.
+This fork has support for tool icons(memtest, shell and so on), 
+indicators for media that is external(usb, web, cd), 
+and support for custom fonts
 
 ![rEFInd Minimalistic](http://i.imgur.com/3bMG6U7.png)
 
